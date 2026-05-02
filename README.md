@@ -16,4 +16,4 @@ This is a simple calculator built using Dart. It performs basic arithmetic opera
 
 ## ▶️ How to Run
 ```bash
-dart calculator.dart
+dart run calculator.dart
