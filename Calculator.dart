@@ -3,7 +3,7 @@ import 'dart:io';
 
 void main(){
   
-  print("---- Calclutor app ----");
+  print("---- Calculator App ----");
   // Taking input from user numer_1
   print("Enter Fisrt number: ");
   double? num_1 = double.tryParse(stdin.readLineSync()!);
